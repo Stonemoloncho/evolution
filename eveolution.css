@@ -1,0 +1,161 @@
+/* top header begins */
+span{
+     float: right; 
+    margin-top: 20px;
+}
+span:hover{
+    background-color: cornflowerblue;
+}
+.container1{
+    background-color: white;
+    padding-bottom: 10px;
+}
+/* top header ends */
+/* second header starts */
+#h3{
+    color: cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 200px;
+    padding-bottom: -30px;
+}
+.image2{
+    width: 20%;
+    height: 7rem;
+    margin-left: 40%;
+}
+.h4{
+    color: cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 35%;
+    padding-bottom: 30px;
+}
+#container2{
+    background-color: white;
+    width: 100%;
+}
+/* second header ends  */
+/* sub header begins */
+p{
+  font-size: large; 
+  font-weight: bold; 
+}
+ aside{
+    float: right;
+} 
+aside:hover{
+    background-color: cornflowerblue;
+}
+section{
+    height: 10vh;
+    width: 100%;
+}
+/* sub header ends */
+/* sub form begins */
+/* table{
+    margin-left: 40%;
+    margin-right: 0px;
+    border: 2px;
+
+}*/
+div[id=index]{
+background-color: white;
+height: 200vh;
+width: 50%;
+margin-left: auto;
+margin-right: auto;
+}
+
+input-text{
+    width: 40%;
+}
+select{
+    width: 40%;
+}
+#agent{
+    background-color: rgba(137, 43, 226, 0.44);
+    padding-bottom: 20px;
+    
+}
+.paragragh{
+    color: mediumblue;
+}
+ins{
+    color: chartreuse;
+}
+#box1{
+    font-weight: bold;
+}
+.bold{
+    color: cornflowerblue;
+    font-weight: bold;
+    font-size: large;
+}
+#box2{
+    background-color: #cccccc39;
+    color: red;
+}
+strong{
+    color: red;
+}
+em{
+    color: red;
+    font-weight: bold;
+    font-size: small;
+}
+label{
+    color: #0000ff;
+    font-weight: bolder;
+    font-size: small;
+    /* padding-right: 15px; */
+    /* text-align:center;
+    margin: 70px; */
+    float: right;
+} 
+#checkbox{
+    float: right;
+}
+input{
+    padding-left: 30px;
+    border: 2px solid black ;
+}
+#box5 input{
+    text-align: center;
+    padding: 20px;
+}
+#index input{
+ text-align: center;
+ margin: auto;
+}
+.Example{
+    font-size: small;
+}
+.Directory{
+    font-size: small;
+}
+.web{
+    font-size: small;
+}
+small{
+    font-size: small;
+}
+.bold2{
+    color: cornflowerblue;
+    font-weight : bold;
+}
+input::placeholder{
+    color: green;
+    font-size: xx-small;
+    text-align: left;
+    font-style: italic;
+}
+#index{
+    position: relative;
+    /* background-color: #ff0; */
+}
+img{
+    height: 200px;
+}
+table{
+    border-collapse: collapse;
+}
+
